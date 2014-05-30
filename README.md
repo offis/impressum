@@ -62,6 +62,10 @@ Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung
 nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir
 derartige Links umgehend entfernen.
 
+### Datenschutz
+
+Mehr zum Thema Datenschutz finden Sie [hier][ppde].
+
 ----------------------------------------------------------------------
 Imprint
 ----------------------------------------------------------------------
