@@ -97,6 +97,11 @@ Prof. Dr.-Ing. Andreas Hein
 Amtsgericht Oldenburg  
 Registernumber VR 1956
 
+
+### VAT Identification Number
+
+DE 811582102
+
 ### Responsible in the sense of § 55 RStV
 
 Dr. Holger Peinemann (CEO)  
