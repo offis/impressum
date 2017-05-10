@@ -2,19 +2,19 @@ Impressum / Legal information
 =============================
 
 Hier finden Sie die nach deutschem Recht erforderlichen [rechtlichen
-Hinweise](#impressum) zu den [GitHub-Projekten] [gh], welche das
+Hinweise](#impressum) zu den [GitHub-Projekten][gh], welche das
 [OFFIS Institut für Informatik][offis] zur Verfügung stellt.
 
 This page contains the [legal information](#imprint) required by
-German laws for the [GitHub projects] [gh] provided by the [OFFIS
-Institute for Information Technology] [offis] at GitHub.
+German laws for the [GitHub projects][gh] provided by the [OFFIS
+Institute for Information Technology][offis] at GitHub.
 
 ----------------------------------------------------------------------
 Impressum
 ----------------------------------------------------------------------
 
 Die folgenden Informationen basieren auf dem Impressum auf der
-[OFFIS-Webseite] [imde].
+[OFFIS-Webseite][imde].
 
 ### Anschrift
 
@@ -24,17 +24,16 @@ Escherweg 2
 Telefon +49 441 9722-0  
 Fax +49 441 9722-102  
 E-mail: institut@offis.de  
-Internet: [www.offis.de] [offis]
+Internet: [www.offis.de][offis]
 
 ### Vertretungsberechtigter Vorstand
 
 Prof. Dr.-Ing. Wolfgang H. Nebel (Vorsitzender)  
 Prof. Dr. techn. Susanne Boll-Westermann  
 Prof. Dr. Werner Damm  
-Prof. Dr.-Ing. Axel Hahn
-Prof. Dr.-Ing. Andreas Hein
-Prof. Dr. Sebastian Lehnhoff
-
+Prof. Dr.-Ing. Axel Hahn  
+Prof. Dr.-Ing. Andreas Hein  
+Prof. Dr. Sebastian Lehnhoff  
 
 ### Registergericht
 
@@ -73,7 +72,7 @@ Imprint
 ----------------------------------------------------------------------
 
 This information is derived from the imprint on the
-[OFFIS website] [imen].
+[OFFIS website][imen].
 
 ### Address
 
@@ -84,16 +83,16 @@ Germany
 Phone +49 441 9722-0  
 Fax +49 441 9722-102  
 Email: institut@offis.de  
-Internet: [www.offis.de] [offis]
+Internet: [www.offis.de][offis]
 
 ### Board Members
 
 Prof. Dr.-Ing. Wolfgang H. Nebel (Chairman)  
 Prof. Dr. techn. Susanne Boll-Westermann  
 Prof. Dr. Werner Damm  
-Prof. Dr.-Ing. Axel Hahn
-Prof. Dr.-Ing. Andreas Hein
-Prof. Dr. Sebastian Lehnhoff
+Prof. Dr.-Ing. Axel Hahn  
+Prof. Dr.-Ing. Andreas Hein  
+Prof. Dr. Sebastian Lehnhoff  
 
 ### Register Court
 
@@ -125,7 +124,7 @@ immediately.
 
 ### Privacy Policy
 
-Our [privacy policy] [ppen] is available [here] [ppen].
+Our [privacy policy][ppen] is available [here][ppen].
 
 [gh]:    https://github.com/offis
 [offis]: http://www.offis.de
