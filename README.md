@@ -128,9 +128,9 @@ Our [privacy policy][ppen] is available [here][ppen].
 
 [gh]:    https://github.com/offis
 [offis]: http://www.offis.de
-[imde]:  http://www.offis.de/service_navigation/legals.html
-[ppde]:  http://www.offis.de/service_navigation/datenschutz.html
-[imen]:  http://www.offis.de/en/service_navigation/legals.html
-[ppen]:  http://www.offis.de/en/service_navigation/privacy.html
+[imde]:  https://www.offis.de/impressum.html
+[ppde]:  https://www.offis.de/datenschutz.html
+[imen]:  https://www.offis.de/en/legals.html
+[ppen]:  https://www.offis.de/en/privacy.html
 
 ----------------------------------------------------------------------
