@@ -68,10 +68,10 @@ derartige Links umgehend entfernen.
 Mehr zum Thema Datenschutz finden Sie [hier][ppde].
 
 ----------------------------------------------------------------------
-Imprint
+Legal Information
 ----------------------------------------------------------------------
 
-This information is derived from the imprint on the
+This legal information is derived from the
 [OFFIS website][imen].
 
 ### Address
