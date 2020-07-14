@@ -5,7 +5,7 @@ Hier finden Sie die nach deutschem Recht erforderlichen [rechtlichen
 Hinweise](#impressum) zu den [GitHub-Projekten][gh], welche das
 [OFFIS Institut für Informatik][offis] zur Verfügung stellt.
 
-This page contains the [legal information](#imprint) required by
+This page contains the [legal information](#legals) required by
 German laws for the [GitHub projects][gh] provided by the [OFFIS
 Institute for Information Technology][offis] at GitHub.
 
@@ -67,10 +67,10 @@ derartige Links umgehend entfernen.
 Mehr zum Thema Datenschutz finden Sie [hier][ppde].
 
 ----------------------------------------------------------------------
-Imprint
+Legals
 ----------------------------------------------------------------------
 
-This information is derived from the imprint on the
+This information is derived from the legals on the
 [OFFIS website][imen].
 
 ### Address
@@ -86,7 +86,7 @@ Internet: [www.offis.de][offis]
 
 ### Board Members
 
-Prof. Dr. Sebastian Lehnhoff (Vorsitzender)
+Prof. Dr. Sebastian Lehnhoff (Chairman)
 Prof. Dr. techn. Susanne Boll-Westermann
 Prof. Dr.-Ing. Axel Hahn
 Prof. Dr.-Ing. Andreas Hein
