@@ -28,12 +28,11 @@ Internet: [www.offis.de][offis]
 
 ### Vertretungsberechtigter Vorstand
 
-Prof. Dr.-Ing. Wolfgang H. Nebel (Vorsitzender)  
-Prof. Dr. techn. Susanne Boll-Westermann  
-Prof. Dr. Werner Damm  
-Prof. Dr.-Ing. Axel Hahn  
-Prof. Dr.-Ing. Andreas Hein  
-Prof. Dr. Sebastian Lehnhoff  
+Prof. Dr. Sebastian Lehnhoff (Vorsitzender)
+Prof. Dr. techn. Susanne Boll-Westermann
+Prof. Dr.-Ing. Axel Hahn
+Prof. Dr.-Ing. Andreas Hein
+Prof. Dr.-Ing. Wolfgang H. Nebel
 
 ### Registergericht
 
@@ -87,18 +86,16 @@ Internet: [www.offis.de][offis]
 
 ### Board Members
 
-Prof. Dr.-Ing. Wolfgang H. Nebel (Chairman)  
-Prof. Dr. techn. Susanne Boll-Westermann  
-Prof. Dr. Werner Damm  
-Prof. Dr.-Ing. Axel Hahn  
-Prof. Dr.-Ing. Andreas Hein  
-Prof. Dr. Sebastian Lehnhoff  
+Prof. Dr. Sebastian Lehnhoff (Vorsitzender)
+Prof. Dr. techn. Susanne Boll-Westermann
+Prof. Dr.-Ing. Axel Hahn
+Prof. Dr.-Ing. Andreas Hein
+Prof. Dr.-Ing. Wolfgang H. Nebel
 
 ### Register Court
 
 Amtsgericht Oldenburg  
 Registernumber VR 1956
-
 
 ### VAT Identification Number
 
