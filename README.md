@@ -48,18 +48,6 @@ OFFIS e.V.
 Escherweg 2  
 26121 Oldenburg
 
-### Haftungshinweis
-
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung
-für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten
-sind ausschließlich deren Betreiber verantwortlich. Die verlinkten
-Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße
-überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung
-nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten
-Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung
-nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir
-derartige Links umgehend entfernen.
-
 ### Datenschutz
 
 Mehr zum Thema Datenschutz finden Sie [hier][ppde].
@@ -86,9 +74,7 @@ Internet: [www.offis.de][offis]
 
 Prof. Dr. Sebastian Lehnhoff (Chairman)
 Prof. Dr. techn. Susanne Boll-Westermann
-Prof. Dr.-Ing. Axel Hahn
 Prof. Dr.-Ing. Andreas Hein
-Prof. Dr.-Ing. Wolfgang H. Nebel
 
 ### Register Court
 
@@ -105,17 +91,6 @@ Dr. Holger Peinemann (CEO)
 OFFIS e.V.  
 Escherweg 2  
 26121 Oldenburg
-
-### Disclaimer
-
-Despite careful control OFFIS assumes no liability for the content of
-external links.  The operators of such a website are solely
-responsible for its content. At the time of linking the concerned
-sites were checked for possible violations of law. Illegal contents
-were not identifiabe at that time.  A permanent control of the linked
-pages is not reasonable without specific indications of a violation.
-Upon notification of violations, OFFIS will remove such links
-immediately.
 
 ### Privacy Policy
 
